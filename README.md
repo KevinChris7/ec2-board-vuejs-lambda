@@ -1,4 +1,9 @@
-# helloworld
+# EC2 Board
+
+## Project About
+```
+EC2 Board which displays the ec2 instance details of each environment.
+```
 
 ## Project setup
 ```
